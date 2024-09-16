@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munishyadav08&label=Profile%20views&color=0e75b6&style=flat" alt="munishyadav08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munishyadav08" alt="munishyadav08" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
@@ -20,7 +19,9 @@
 - 📫 How to reach me **munish94511@gmail.com**
 
 - ⚡ Fun fact **Fun fact: I love exploring politics, enjoying Punjabi music, staying updated on international affairs, and watching Pakistani dramas!**
+[![An image of @munishyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/munishyadav)](https://holopin.io/@munishyadav)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munishyadav08" alt="munishyadav08" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/munishyadav0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munishyadav0812" height="30" width="40" /></a>
