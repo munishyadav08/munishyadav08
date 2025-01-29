@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available 
 
-- 💬 Ask me about **Semiconductor, Politics, Geography**
+- 💬 Ask me about 
 
 - 📫 How to reach me
 
