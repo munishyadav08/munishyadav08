@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with **React js**
 
-- 👨‍💻 All of my projects are available at [https://about.me/munishyadav](https://about.me/munishyadav)
+- 👨‍💻 All of my projects are available 
 
 - 💬 Ask me about **Semiconductor, Politics, Geography**
 
 - 📫 How to reach me
 
-- ⚡ Fun fact **Fun fact: I love exploring politics, enjoying Punjabi music, staying updated on international affairs, and watching Pakistani dramas!**
+- ⚡ Fun fact 
 [![An image of @munishyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/munishyadav)](https://holopin.io/@munishyadav)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munishyadav08" alt="munishyadav08" /></a> </p>
