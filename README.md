@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Semiconductor, Politics, Geography**
 
-- 📫 How to reach me **munish94511@gmail.com**
+- 📫 How to reach me
 
 - ⚡ Fun fact **Fun fact: I love exploring politics, enjoying Punjabi music, staying updated on international affairs, and watching Pakistani dramas!**
 [![An image of @munishyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/munishyadav)](https://holopin.io/@munishyadav)
